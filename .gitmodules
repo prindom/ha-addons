@@ -1,0 +1,3 @@
+[submodule "hcloud-ddns"]
+	path = hcloud-ddns
+	url = git@github.com:prindom/hcloud-ddns.git
